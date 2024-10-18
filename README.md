@@ -1,5 +1,5 @@
 <p align="center">
-# Computer science
+Computer science
 </p>
 
 ## University of Oregon 
