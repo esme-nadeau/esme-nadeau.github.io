@@ -1,4 +1,7 @@
+<p align="center">
 # Computer science
+</p>
+
 ## University of Oregon 
 
 ## Work Experience
