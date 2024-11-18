@@ -6,8 +6,11 @@ Computer science
 
 ## Work Experience
 [Automation Solutions](https://www.asmym.com/)
-- test
-- test
+Programming Intern
+- Created innovative, responsive solutions to a variety of machine control applications and software products. 
+- Helped the design the UI for Teledyne machinery using Codesys
+- Implemented a time-tracking algorithm on the company database using MySQL and Podio
+- Helped to develop projects from customer discovery and design; to PLC, HMI, Motion, and Network programming
 
 ## Awards
 - award 1
