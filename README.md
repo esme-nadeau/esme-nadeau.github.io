@@ -2,10 +2,10 @@
 Computer science
 </p>
 
-## University of Oregon 
+## University of Oregon - Computer Science Major
 
 ## Work Experience
-Workplace 1
+[Automation Solutions](https://www.asmym.com/)
 - test
 - test
 
