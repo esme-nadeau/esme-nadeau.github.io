@@ -25,6 +25,13 @@ March 2024 - June 2024
 - Mastered the principles of advanced Discrete Mathematics including inductive proofs, recursive algorithms, and graph theory
 - Used Canvas grading features
 
+**Oregon Zoo**
+ZooTeen Interpreter Volunteer, 
+June 2018 - March 2020
+- Accumulated 336 hours of volunteer service
+- Spoke to guests of all ages about wildlife and conservation topics, facilitated educational games, and handled animals
+- Planned events and designed games as a member of the Conservation Corps
+
 ## Awards
 [**J. Donald Hubbard Family Scholarship in Computer and Information Science**](https://scds.uoregon.edu/cs/undergraduate-programs/scholarships)
 awarded by University of Oregon, 
@@ -43,3 +50,10 @@ awarded by Franklin High School, June 2022
 **Judge Richard Unis Mock Trial Student of the Year**
 awarded by Brian Halberg, March 2020
 - Awarded for my performance as Mock Trial Varsity team captain
+
+## Extracurriculars 
+**UO Cybersecurity Club**
+- Role: leadership team, social media manager, member of the CyberDucks CTF team
+
+**WiCS (Women in Computer Science)**
+- Role: general member
