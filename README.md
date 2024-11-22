@@ -1,5 +1,5 @@
 <p align="center">
-## University of Oregon - Computer Science Major
+University of Oregon - Computer Science Major
 </p>
 
 ## Work Experience
