@@ -35,3 +35,11 @@ June 2024
 awarded by B-Sides Cybersecurity Conference,
 October 2024
 - Awarded to the author of the best phishing email in the social engineering category of the official conference CTF competition
+
+**Designer of the Year** 
+awarded by Franklin High School, June 2022
+- Awarded for my contributions as design editor of the Franklin High School yearbook
+
+**Judge Richard Unis Mock Trial Student of the Year**
+awarded by Brian Halberg, March 2020
+- Awarded for my performance as Mock Trial Varsity team captain
