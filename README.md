@@ -2,7 +2,7 @@
 University of Oregon - Computer Science Major
 </p>
 
-[Linkedin](https://www.linkedin.com/in/esm%C3%A9-nadeau-448286191/) [Github](https://github.com/esme-nadeau)
+[Linkedin](https://www.linkedin.com/in/esm%C3%A9-nadeau-448286191/) - [Github](https://github.com/esme-nadeau)
 
 
 ## Work Experience
