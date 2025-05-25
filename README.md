@@ -1,62 +1,53 @@
-<p align="center">
-University of Oregon - Computer Science Major
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name's Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        h1 {
+            margin-bottom: 30px;
+        }
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .button-container a {
+            text-decoration: none;
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-align: center;
+            width: 200px;
+            transition: background-color 0.3s;
+        }
+        .button-container a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
 
-[Linkedin](https://www.linkedin.com/in/esm%C3%A9-nadeau-448286191/) - [Github](https://github.com/esme-nadeau)
+    <h1>Esmé Nadeau</h1>
 
+    <div class="button-container">
+        <a href="music.html">Music Portfolio</a>
+        <a href="coding.html">Coding Portfolio</a>
+        <a href="about.html">About Me</a>
+    </div>
 
-## Work Experience
-[**Automation Solutions**](https://www.asmym.com/)
-Programming Intern, 
-July 2024 - September 2024
-- Created innovative, responsive solutions to a variety of machine control applications and software products. 
-- Helped the design the UI for Teledyne machinery using Codesys
-- Implemented a time-tracking algorithm on the company database using MySQL and Podio
-- Helped to develop projects from customer discovery and design; to PLC, HMI, Motion, and Network programming
-
-**Backstitch Vintage** 
-Design Assistant, 
-June 2019 - Present
-- Assist in social media and marketing and design logos, posts and signs for the business
-- Create spreadsheets to track store inventory.
-
-**University of Oregon** 
-Discrete Mathematics Paper Marker,
-March 2024 - June 2024
-- Paper Marker for the University of Oregon Department of Mathematics, Discrete Mathematics II with Professor Galen Dorpalen-Barry. 
-- Graded weekly written homework assignments, giving scores and providing feedback
-- Mastered the principles of advanced Discrete Mathematics including inductive proofs, recursive algorithms, and graph theory
-- Used Canvas grading features
-
-**Oregon Zoo**
-ZooTeen Interpreter Volunteer, 
-June 2018 - March 2020
-- Accumulated 336 hours of volunteer service
-- Spoke to guests of all ages about wildlife and conservation topics, facilitated educational games, and handled animals
-- Planned events and designed games as a member of the Conservation Corps
-
-## Awards
-[**J. Donald Hubbard Family Scholarship in Computer and Information Science**](https://scds.uoregon.edu/cs/undergraduate-programs/scholarships)
-awarded by University of Oregon, 
-June 2024
-- Awarded to a senior undergrad or a graduate student in Computer and Information Science. Preference is given to students who show an interest in human-computer interaction, computer graphics, or multimedia. Secondary criteria are significant contributions of time and energy to the department through volunteer efforts
-
-**Judge's Choice for Best Phish**
-awarded by B-Sides Cybersecurity Conference,
-October 2024
-- Awarded to the author of the best phishing email in the social engineering category of the official conference CTF competition
-
-**Designer of the Year** 
-awarded by Franklin High School, June 2022
-- Awarded for my contributions as design editor of the Franklin High School yearbook
-
-**Judge Richard Unis Mock Trial Student of the Year**
-awarded by Brian Halberg, March 2020
-- Awarded for my performance as Mock Trial Varsity team captain
-
-## Extracurriculars 
-**UO Cybersecurity Club**
-- Role: leadership team, social media manager, member of the CyberDucks CTF team
-
-**WiCS (Women in Computer Science)**
-- Role: general member
+</body>
+</html>
